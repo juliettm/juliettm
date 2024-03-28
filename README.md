@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @juliettm
 - 👀 I’m interested in ethics in ML.
-- 💞️ I’m looking to collaborate ...
 
 
 <!---
